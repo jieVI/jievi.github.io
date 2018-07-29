@@ -43,7 +43,7 @@ key: page-about
 该项目为公司内部打造一个代码共享的平台， 同其他子系统都有一定的交互。后期也提供了trouble tick的相关操作, 以及bug 的申报修复等功能,同maven仓库联动实现内部lib管理。
 主要技术：Spring、SpringMVC、Mybatis，Mysql、WebSphere， 使用JBPM灵活的管理Component的审阅以及发布等， 采用行业最流行技术MVC分层架构模型以Restful形式对外服务采用了Mysql数据库管理系统。使用Reactjs实现前台呈现
 > - Data analysis System
-    - `时间` 2015.10 ~ 2016.05
+    - `时间` 2015.03 ~ 2015.05
 项目主要帮助硬件团队完成测试数据的可视化分析。以便于能直观的发现产品存在的问题，从测试场机台下来的数据文件， 解析到Data analysis System的Mongodb中，然后生成统计学的相关报表。项目最终减少改BU 60%的分析人员同时精准度有了极大的提升
 主要技术：Spring、SpringMVC、Spring-data，Mongodb、Jetty， 采用行业最流行技术MVC分层架构模型以Restful形式对外服务,采用了Mongodb数据库管理系统。使用html+css+jquery实现前台， 使用d3.js与mychart.js 实现报表
 
